@@ -1,0 +1,20 @@
+
+table, th, td {
+   border-collapse: collapse;
+   border:1.5px solid black;
+   padding: 3px;
+}
+tr:hover{background-color: #3fb57e;}
+header{
+   background-color: #ff5c3e;
+   color: aliceblue;
+   text-align: center;
+}
+body{
+   background-color:#005D68;
+}
+footer{
+   text-align: center;
+   background-color: #545454;
+   color: aliceblue;
+}  
